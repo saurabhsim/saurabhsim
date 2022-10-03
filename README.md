@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @szam619
+- 👋 Hi, I’m @saurabhsim
 - 👀 I’m interested in Physics Programming (CFD)
 - 🌱 I’m currently learning all there is to open-source simulation space
 - 💞️ I’m looking to collaborate on CFD related projects
